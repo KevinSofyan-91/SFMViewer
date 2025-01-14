@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/axis_and_label.png</file>
+        <file>Resources/building.png</file>
+        <file>Resources/cancel.png</file>
+        <file>Resources/exit.png</file>
+        <file>Resources/fileopen.png</file>
+        <file>Resources/filesave.png</file>
+        <file>Resources/fullscreen.png</file>
+        <file>Resources/help.png</file>
+        <file>Resources/home.png</file>
+        <file>Resources/lighting.png</file>
+        <file>Resources/minus.png</file>
+        <file>Resources/MVStudio.icns</file>
+        <file>Resources/MVStudio.ico</file>
+        <file>Resources/MVStudio.png</file>
+        <file>Resources/MVStudio.qrc</file>
+        <file>Resources/MVStudio.rc</file>
+        <file>Resources/new.png</file>
+        <file>Resources/options.png</file>
+        <file>Resources/perspective.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/snap_shot.png</file>
+        <file>Resources/spheres.png</file>
+        <file>Resources/splash.png</file>
+    </qresource>
+</RCC>

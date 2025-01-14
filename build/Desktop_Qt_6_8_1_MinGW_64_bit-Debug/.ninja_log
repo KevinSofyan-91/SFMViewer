@@ -1,0 +1,12 @@
+# ninja log v6
+4	270	7579566374590349	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	741b5d040936c14d
+281	1011	7579566377413531	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/sfmViewer_autogen/timestamp	cbfb9d5f04c92b8d
+1379	1701	7579562457196122	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/sfmViewer_autogen/EWIEGA46WW/qrc_Resources.cpp	74076cc841e36f20
+281	1011	7579566377413531	sfmViewer_autogen/timestamp	cbfb9d5f04c92b8d
+1706	3335	7579562459266522	CMakeFiles/sfmViewer.dir/sfmViewer_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	f5a2058d95476a74
+281	1011	7579566377413531	sfmViewer_autogen/mocs_compilation.cpp	cbfb9d5f04c92b8d
+281	1011	7579566377413531	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/sfmViewer_autogen/mocs_compilation.cpp	cbfb9d5f04c92b8d
+1379	1701	7579562457196122	sfmViewer_autogen/EWIEGA46WW/qrc_Resources.cpp	74076cc841e36f20
+276	980	7579566556445065	build.ninja	c8e4aa820b521f01
+4	277	7579566637836123	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	741b5d040936c14d
+3	271	7579569520098766	D:/Project/_Red/_SFM/Viewer/sfmViewer/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	741b5d040936c14d
